@@ -63,3 +63,6 @@ $ npm test
 ## License
 
 MIT
+
+notes:
+node / v6.7.0
